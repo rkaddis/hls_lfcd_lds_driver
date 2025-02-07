@@ -4,6 +4,11 @@
 - Active Branches: noetic, humble, main
 - Legacy Branches: *-devel
 
+## Usage (ROS2)
+``` bash
+ros2 launch hls_lfcd_lds_driver hlds_laser.launch.py
+```
+
 ## ROBOTIS e-Manual for TurtleBot3 and LDS-01
 - [ROBOTIS e-Manual for TurtleBot3 and LDS-01](http://turtlebot3.robotis.com/)
 
